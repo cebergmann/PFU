@@ -15,7 +15,7 @@
  */
 
 
-//
+
 package validation;
 import java.io.*;
 import java.util.ArrayList;
@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-//hi!
+
 public class ValidateRooms {
 	
 	static int errorCount = 0;													//int to track errorCount
